@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\f6e4d89a79b26835ede0e90e07a9dc41\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\15cda53316ccd95e05d7ced71b11291c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\9d0b04bc388b40168856d8ebba64dbc3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\2297c011259423e58a78a859dcd3f6d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\8fc2a51c13cb1c04cbeac41a27de5b42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e86aa4c7e3a142555fc4c4d7ba46e5fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\4bee505af08fa20f18234ef28e4f1797\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\fb9a9eaec82747e547f4841d3717ede1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\2969f61734358eabaecd143f6f877ad9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\ceeebc3c8f9d4c6c3a8198010487ae85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\639db7dc52cbae10a182ea0d68e7159f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\6de32658b854c6309193fbbcba9dfdc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\8d12d7cb05f2dc76a47158c63121e798\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\9cf774d57e6f6cf682e77ed4eb710d4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\bf8e29f5b4fd248ede449ebdacd711a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\86be0d19099abd532c1249e6f60822db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\81982ea459275cf082c5dfb9babbe8fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e94c632cacf1fdf1aa8b01e857ff7c7f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e30fc1b5a1b2ecf7d0055f30a8e79ae7\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\6043327ef6354b65969fc04850fa6b3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\67364346e8ab72fa6226c7fe0a1b1dfe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\87681a8656ebb4d61dc8777649b94ed2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\4c65faa6b1a94bf876969b3f4a4b5b34\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\ca8572d2bc037b5a9d0fc9cd2e1572db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\3317100dea13cfc18e5fb8688e6094d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\7b17e0aabad386d2f0d111367a3bbe18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\736c2696eafde00eb436808e86ad7619\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\7433a3a0858cf73d79aabd95397fe524\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\8448edb71a3f93040aa8013107bb3b47\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\99c1429113b04fe199920f04ae537e31\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.Camera.
+ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:7:5-61
+	android:name
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:7:19-58
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.hardware.camera.autofocus
+ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:10:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:13:5-28:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\f6e4d89a79b26835ede0e90e07a9dc41\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\f6e4d89a79b26835ede0e90e07a9dc41\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e94c632cacf1fdf1aa8b01e857ff7c7f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e94c632cacf1fdf1aa8b01e857ff7c7f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e30fc1b5a1b2ecf7d0055f30a8e79ae7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e30fc1b5a1b2ecf7d0055f30a8e79ae7\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e94c632cacf1fdf1aa8b01e857ff7c7f\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.tec.fontsize.MainActivity
+ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:18:9-27:20
+	android:label
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\f6e4d89a79b26835ede0e90e07a9dc41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\f6e4d89a79b26835ede0e90e07a9dc41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\15cda53316ccd95e05d7ced71b11291c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\15cda53316ccd95e05d7ced71b11291c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\9d0b04bc388b40168856d8ebba64dbc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\9d0b04bc388b40168856d8ebba64dbc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\2297c011259423e58a78a859dcd3f6d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\2297c011259423e58a78a859dcd3f6d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\8fc2a51c13cb1c04cbeac41a27de5b42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\8fc2a51c13cb1c04cbeac41a27de5b42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e86aa4c7e3a142555fc4c4d7ba46e5fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e86aa4c7e3a142555fc4c4d7ba46e5fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\4bee505af08fa20f18234ef28e4f1797\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\4bee505af08fa20f18234ef28e4f1797\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\fb9a9eaec82747e547f4841d3717ede1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\fb9a9eaec82747e547f4841d3717ede1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\2969f61734358eabaecd143f6f877ad9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\2969f61734358eabaecd143f6f877ad9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\ceeebc3c8f9d4c6c3a8198010487ae85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\ceeebc3c8f9d4c6c3a8198010487ae85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\639db7dc52cbae10a182ea0d68e7159f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\639db7dc52cbae10a182ea0d68e7159f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\6de32658b854c6309193fbbcba9dfdc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\6de32658b854c6309193fbbcba9dfdc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\8d12d7cb05f2dc76a47158c63121e798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\8d12d7cb05f2dc76a47158c63121e798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\9cf774d57e6f6cf682e77ed4eb710d4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\9cf774d57e6f6cf682e77ed4eb710d4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\bf8e29f5b4fd248ede449ebdacd711a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\bf8e29f5b4fd248ede449ebdacd711a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\86be0d19099abd532c1249e6f60822db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\86be0d19099abd532c1249e6f60822db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\81982ea459275cf082c5dfb9babbe8fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\81982ea459275cf082c5dfb9babbe8fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e94c632cacf1fdf1aa8b01e857ff7c7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e94c632cacf1fdf1aa8b01e857ff7c7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e30fc1b5a1b2ecf7d0055f30a8e79ae7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\e30fc1b5a1b2ecf7d0055f30a8e79ae7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\6043327ef6354b65969fc04850fa6b3c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\6043327ef6354b65969fc04850fa6b3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\67364346e8ab72fa6226c7fe0a1b1dfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\67364346e8ab72fa6226c7fe0a1b1dfe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\87681a8656ebb4d61dc8777649b94ed2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\87681a8656ebb4d61dc8777649b94ed2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\4c65faa6b1a94bf876969b3f4a4b5b34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\4c65faa6b1a94bf876969b3f4a4b5b34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\ca8572d2bc037b5a9d0fc9cd2e1572db\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\ca8572d2bc037b5a9d0fc9cd2e1572db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\3317100dea13cfc18e5fb8688e6094d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\3317100dea13cfc18e5fb8688e6094d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\7b17e0aabad386d2f0d111367a3bbe18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\7b17e0aabad386d2f0d111367a3bbe18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\736c2696eafde00eb436808e86ad7619\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\736c2696eafde00eb436808e86ad7619\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\7433a3a0858cf73d79aabd95397fe524\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\7433a3a0858cf73d79aabd95397fe524\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\8448edb71a3f93040aa8013107bb3b47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\8448edb71a3f93040aa8013107bb3b47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\99c1429113b04fe199920f04ae537e31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\koema\.gradle\caches\transforms-2\files-2.1\99c1429113b04fe199920f04ae537e31\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\koema\Desktop\ScreenToFaceDistance2\app\src\main\AndroidManifest.xml

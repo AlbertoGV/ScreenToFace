@@ -1,0 +1,4 @@
+#Sun Jul 14 21:15:06 CEST 2019
+base.0=C\:\\Users\\koema\\Desktop\\ScreenToFaceDistance2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
