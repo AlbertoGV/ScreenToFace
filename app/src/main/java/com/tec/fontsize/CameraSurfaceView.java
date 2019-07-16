@@ -84,6 +84,7 @@ public class CameraSurfaceView extends SurfaceView implements Callback,
 
 		mHolder = getHolder();
 		mHolder.addCallback(this);
+
 	}
 
 	public void setCamera(final Camera camera) {

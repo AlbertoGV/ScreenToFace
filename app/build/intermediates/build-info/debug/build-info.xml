@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="28"
+    abi="x86"
+    api-level="27"
     build-mode="COLD"
-    density="xxhdpi"
+    density="560dpi"
     format="10"
     plugin-version="3.4.2"
-    timestamp="1563131716918"
+    timestamp="1563292145558"
     token="-9067256574560143417"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -25,10 +25,10 @@
 
     <build
         build-mode="FULL"
-        timestamp="1563126412799"
+        timestamp="1563292104200"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\koema\Desktop\ScreenToFaceDistance2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\Users\koema\Desktop\ScreenToFaceDistance2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\koema\Desktop\ScreenToFaceDistance2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
@@ -58,7 +58,7 @@
             location="C:\Users\koema\Desktop\ScreenToFaceDistance2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\koema\Desktop\ScreenToFaceDistance2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            location="C:\Users\koema\Desktop\ScreenToFaceDistance2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\koema\Desktop\ScreenToFaceDistance2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -69,16 +69,7 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1563131704639"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\koema\Desktop\ScreenToFaceDistance2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1563131716918"
+        timestamp="1563292145558"
         verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
